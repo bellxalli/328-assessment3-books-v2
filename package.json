@@ -28,6 +28,9 @@
     "test": ""
   },
   "dependencies": {
-    "express": "^5.1.0"
+    "cors": "^2.8.5",
+    "es6": "^0.0.7",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
   }
 }
